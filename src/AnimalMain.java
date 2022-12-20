@@ -27,5 +27,6 @@ public class AnimalMain {
     cat.move();
     cat.sleep();
     cat.eat(cat.favFood);
+    cat.sound();
   }
 }
